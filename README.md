@@ -1,4 +1,3 @@
-### Hi there 👋
 # 👋 Olá!
 
 Meu nome é Arthur, tenho 16 anos e sou um estudante de programação. Atualmente, estou me dedicando aos cursos da DIO, uma plataforma de ensino online que tem me proporcionado uma excelente base em programação.

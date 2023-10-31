@@ -1,6 +1,6 @@
 # 👋 Olá!
 
-Meu nome é Arthur, tenho 16 anos e sou um estudante em programação. Atualmente, estou me dedicando aos cursos da DIO, uma plataforma de ensino online que tem me proporcionado uma excelente base em programação.
+Meu nome é Arthur, e sou um estudante em programação. Atualmente, estou me dedicando aos cursos da DIO, uma plataforma de ensino online que tem me proporcionado uma excelente base em programação.
 
 <div>
   <h2>Minhas Redes</h2>
